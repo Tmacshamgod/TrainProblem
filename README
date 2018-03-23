@@ -1,0 +1,5 @@
+A directed graph where a node represents a town and an edge represents a route between two towns. The weighting of the edge represents the distance between the two towns. A given route will never appear more than once, and for a given route, the starting and ending town will not be the same town. 
+
+Java + Maven with detailed unit tests and good OO design.
+
+Data Structure Design: Map with Towns as key and a list of Routes, those Routes have target Town with distance weight.
